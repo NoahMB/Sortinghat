@@ -81,8 +81,8 @@
             </tr>
         </table>";
 
-    echo "<div class='center-houses'>
-            <div class='container-houses'>
+    echo "<div class='housescenter'>
+            <div class='housescontainer'>
                 <form method='post' action='assets/include/rate.inc.php'>
                     <div class='row'>
                         <div class='columnnofilter'>
