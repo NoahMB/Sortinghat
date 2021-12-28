@@ -47,8 +47,8 @@ if ($result->num_rows > 0) {
                 </tr>
             </table>";
 
-        echo "<div class='center-houses'>
-                <div class='container-houses'>
+        echo "<div class='housescenter'>
+                <div class='housescontainer'>
                     <form method='post' action='assets/include/rate.inc.php'>
                         <input type='hidden' name=id value=".$row["fldAccountsID"]." >
                         <div class='row'>
